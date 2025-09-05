@@ -35,11 +35,11 @@ afin de transformer la donnée en un véritable levier de valeur et d’impact d
 
 ## 📂 Expériences Data  
 
-- Projet Incubateur 2025 : collecte, structuration et analyse des données sur la représentation des femmes dans la tech → [Dashboards & Dataviz]
+- Projet Incubateur 2025 : collecte, structuration et analyse des données sur la représentation des femmes dans la tech 
 
-- SEO et Analytics Freelance : optimisation de sites web grâce à l’analyse de données clients et KPIs digitaux
+- SEO et Analytics : optimisation de sites web grâce à l’analyse de données clients et KPIs digitaux
 
-- Data Engineer : Analyse des obstacles à l’insertion des jeunes diplomées dans la tech au Cameroun
+- Data Engineer : Analyse des obstacles à l’emploi des jeunes diplomées dans la tech 
 
 
 ## Ce que j’apporte

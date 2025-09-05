@@ -1,1 +1,6 @@
-
+title: "Christelle KWICHOUE"
+logo: img/nny.jpg
+description: "Data Engineer portfolio"
+show_downloads: true 
+theme: jekyll-theme-minimal
+lang: fr

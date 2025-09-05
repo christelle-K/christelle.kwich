@@ -42,14 +42,14 @@ afin de transformer la donnée en un véritable levier de valeur et d’impact d
 - Data Engineer : Analyse des obstacles à l’insertion des jeunes diplomées dans la tech au Cameroun
 
 
-## 🌟 Ce que j’apporte
+## Ce que j’apporte
 
 - Une double compétence : technique (data) et métier (gestion de projet et innovation)
 - Une capacité à traduire les besoins business en solutions data concrètes
 - Une vision orientée impact et performance durable
 
 
-📫 Me contacter
+# contact
 
 📧 christellekwich@gmail.com
 

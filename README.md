@@ -2,10 +2,10 @@
 
 Bienvenue sur mon portfolio
 
-Assistante Data Engineer en recherche d'alternance | Ex-Cheffe de projet Digital & Innovation
+Assistante Data Engineer à la recherche une alternance | Ex-Cheffe de projet Digital & Innovation
 
-Après plusieurs années en gestion de projet digital et innovation, j’ai décidé de me spécialiser en Data Engineering
-afin de faire de la donnée un véritable levier de valeur et de transformation durable. Mon ambition est de relier ma vision métier et mes compétences en pilotage de projets aux technologies Big Data et Cloud, pour de concevoir des produits et services data-driven capable de génèrer de la valeur et d'accompagner la transformation des organisations.
+Après plusieurs années en gestion de projets digitaux et innovation, j’ai décidé de me spécialiser en Data Engineering.
+Mon ambition est de relier ma vision métier et mes compétences en pilotage de projets, aux technologies Big Data et Cloud, pour concevoir des produits et services data-driven capable de génèrer de la valeur et d'accompagner la transformation des organisations.
 
 ## À propos de moi
 

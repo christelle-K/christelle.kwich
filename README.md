@@ -2,10 +2,10 @@
 
 Bienvenue sur mon portfolio
 
-Je suis assistante Data Engineer | Ex-Cheffe de projet Digital & Innovation
+Assistante Data Engineer en recherche d'alternance | Ex-Cheffe de projet Digital & Innovation
 
-Après plusieurs années en gestion de projet digital et innovation, j’ai choisi de me spécialiser en Data Engineering
-afin de transformer la donnée en un véritable levier de valeur et d’impact durable.
+Après plusieurs années en gestion de projet digital et innovation, j’ai décidé de me spécialiser en Data Engineering
+afin de faire de la donnée un véritable levier de valeur et de transformation durable. Mon ambition est de relier ma vision métier et mes compétences en pilotage de projets aux technologies Big Data et Cloud, pour de concevoir des produits et services data-driven capable de génèrer de la valeur et d'accompagner la transformation des organisations.
 
 ## À propos de moi
 
@@ -21,9 +21,9 @@ afin de transformer la donnée en un véritable levier de valeur et d’impact d
 
 ## 🧰 Compétences techniques
 
-- Langages et Data : SQL, Python, Shell
+- Langages et Data : SQL, Python (en cours de consolidation), Shell
 
-- Outils BI et Visualisation : Power BI, Google Analytics, Excel avancé
+- Outils BI et Visualisation : Power BI, Google Analytics, Excel 
 
 - ETL et Pipelines : conception et optimisation de flux de données
 
@@ -39,8 +39,9 @@ afin de transformer la donnée en un véritable levier de valeur et d’impact d
 
 - SEO et Analytics : optimisation de sites web grâce à l’analyse de données clients et KPIs digitaux
 
-- Data Engineer : Analyse des obstacles à l’emploi des jeunes diplomées dans la tech 
+- Cheffe de projet : Produire de dashboards de suivi des actions du lab innovation, afin de faliciter la prise de décision
 
+- Data et innovation social : Suivi et mesure l'impact du programme de mentorat des jeunes diplomées de la tech et du numérique au Cameroun
 
 ## Ce que j’apporte
 
@@ -52,5 +53,6 @@ afin de transformer la donnée en un véritable levier de valeur et d’impact d
 # contact
 
 📧 christellekwich@gmail.com
+   Paris, France
 
 

@@ -2,7 +2,7 @@
 
 Bienvenue sur mon portfolio
 
-Assistante Data Engineer à la recherche une alternance | Ex-Cheffe de projet Digital & Innovation
+Assistante Data Engineer en recherche d'opportunités | Ex-Cheffe de projet Digital & Innovation
 
 Après plusieurs années en gestion de projets digitaux et innovation, j’ai décidé de me spécialiser en Data Engineering.
 Mon ambition est de relier ma vision métier et mes compétences en pilotage de projets, aux technologies Big Data et Cloud, pour concevoir des produits et services data-driven capable de génèrer de la valeur et d'accompagner la transformation des organisations.
@@ -53,6 +53,7 @@ Mon ambition est de relier ma vision métier et mes compétences en pilotage de 
 # contact
 
 📧 christellekwich@gmail.com
+
    Paris, France
 
 

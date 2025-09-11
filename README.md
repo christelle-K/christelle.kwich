@@ -35,7 +35,7 @@ Mon ambition est de relier ma vision métier et mes compétences en pilotage de 
 
 ## 📂 Expériences Data  
 
-- Projet Incubateur 2025 : collecte, structuration et analyse des données sur la représentation des femmes dans la tech 
+- Projet data et impact social : Collecte, analyse et visualisation des obstacles à l'insertion professionnelle des femmes jeunes diplomées dans la tech  
 
 - SEO et Analytics : optimisation de sites web grâce à l’analyse de données clients et KPIs digitaux
 

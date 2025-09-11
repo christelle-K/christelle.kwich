@@ -41,7 +41,7 @@ Mon ambition est de relier ma vision métier et mes compétences en pilotage de 
 
 - Cheffe de projet : Produire de dashboards de suivi des actions du lab innovation, afin de faliciter la prise de décision
 
-- Data et innovation social : Suivi et mesure l'impact du programme de mentorat des jeunes diplomées de la tech et du numérique au Cameroun
+- Data et innovation social : Suivi et mesure l'impact du programme de Sprint Design des jeunes diplomées de la tech et du numérique
 
 ## Ce que j’apporte
 
